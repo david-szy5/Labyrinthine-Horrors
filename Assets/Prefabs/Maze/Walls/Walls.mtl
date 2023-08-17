@@ -1,0 +1,18 @@
+newmtl Wall1Mtl
+Material Color
+Ka 0.280124 0.0697271 0.018913
+Kd 0.280124 0.0697271 0.018913
+Ks 0.0175764 0.00437503 0.0011867 
+
+d 1
+
+Ns 0
+
+map_Ka Wall1_diff.png
+map_Kd Wall1_diff.png
+map_d Wall1_diff.png
+
+map_Bump Wall1_nmap.png
+
+map_Ns Wall1_spec.png
+

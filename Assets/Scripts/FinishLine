@@ -1,0 +1,33 @@
+ using System.Collections;
+ using System.Collections.Generic;
+ using UnityEngine;
+ using UnityEngine.UI;
+ using 
+ 
+ public class FinishLine : MonoBehaviour {
+ 
+     public Text winText;
+     private bool FinishPlane = false;
+     public SendToGoogle sender;
+ 
+     // Use t$$anonymous$$s for initialization
+     void Start () {
+        FinishPlane = false;
+ 
+     }
+ 
+     void OnTriggerEnter(Collider col)
+     {
+        sender.setCheckpoint(4);
+        sender.setEndType(1);
+        sender.Send();
+
+         if (col.tag == "Player") {
+            FinishPlane = true;
+            winText.text="You Win!";
+         
+         }
+     }
+ }
+     
+ 

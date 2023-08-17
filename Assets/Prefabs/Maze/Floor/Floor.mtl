@@ -1,0 +1,18 @@
+newmtl Floor1Mtl
+Material Color
+Ka 0.511398 0.334458 0.108711
+Kd 0.511398 0.334458 0.108711
+Ks 0.0280767 0.0183624 0.00596846 
+
+d 1
+
+Ns 0
+
+map_Ka Floor1_diff.png
+map_Kd Floor1_diff.png
+map_d Floor1_diff.png
+
+map_Bump Floor1_nmap.png
+
+map_Ns Floor1_spec.png
+

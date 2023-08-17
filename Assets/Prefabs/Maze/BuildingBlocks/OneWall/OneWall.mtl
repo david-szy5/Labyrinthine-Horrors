@@ -1,0 +1,54 @@
+newmtl Wall1Mtl
+Material Color
+Ka 0.280124 0.0697271 0.018913
+Kd 0.280124 0.0697271 0.018913
+Ks 0.0175764 0.00437503 0.0011867 
+
+d 1
+
+Ns 0
+
+map_Ka Wall1_diff.png
+map_Kd Wall1_diff.png
+map_d Wall1_diff.png
+
+map_Bump Wall1_nmap.png
+
+map_Ns Wall1_spec.png
+
+newmtl Floor1Mtl
+Material Color
+Ka 0.511398 0.334458 0.108711
+Kd 0.511398 0.334458 0.108711
+Ks 0.0280767 0.0183624 0.00596846 
+
+d 1
+
+Ns 0
+
+map_Ka Floor1_diff.png
+map_Kd Floor1_diff.png
+map_d Floor1_diff.png
+
+map_Bump Floor1_nmap.png
+
+map_Ns Floor1_spec.png
+
+newmtl Ceiling1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0161167 0.0159 0.016555 
+
+d 1
+
+Ns 0
+
+map_Ka Ceiling1_diff.png
+map_Kd Ceiling1_diff.png
+map_d Ceiling1_diff.png
+
+map_Bump Ceiling1_nmap.png
+
+map_Ns Ceiling1_spec.png
+

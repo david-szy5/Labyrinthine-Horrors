@@ -1,0 +1,18 @@
+newmtl Shell1Mtl
+Material Color
+Ka 0.358654 0.234895 0.0759261
+Kd 0.358654 0.234895 0.0759261
+Ks 0.358654 0.234895 0.0759261 
+
+d 1
+
+Ns 0
+
+map_Ka Shell1_diff.png
+map_Kd Shell1_diff.png
+map_d Shell1_diff.png
+
+map_Bump Shell1_nmap.png
+
+map_Ns Shell1_spec.png
+

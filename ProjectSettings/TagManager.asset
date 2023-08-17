@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - snow
+  - car
+  - Ground
+  - PickUp
+  - CrashMode
+  - FinishLineCube
+  - FinishLine
+  - Letter
+  - TimerBoost_2
+  - GoldCanvas
+  - TimeCanvas
+  - SpeedBoost_3
+  - TimerBoost_1
+  - SpeedBoost_2
+  - SpeedBoost_1
+  - TimerBoost_3
+  - Car
+  - Bullet
+  - Enemy
+  - ammo
+  - key
+  - escape
+  - BulletEnemy
+  - seeker
+  - canvas
+  - Interactible
+  - health
+  - flashlight_trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - groundLayer
+  - Motor
+  - Car
+  - Enemy
+  - Bullet
+  - Post-processing
+  - Floor
+  - Player
+  - Interactible
+  - Ceiling
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
