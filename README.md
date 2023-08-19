@@ -7,7 +7,8 @@
 ### Table of Contents
 - [Game overview](#overview)
 - [Team & Roles](#team-roles)
-
+  * [Role Descriptions](#role-desc)
+- [Gameplay Video](#video)
 
 ### Game Overview
 <a name="overview"/>
@@ -26,6 +27,7 @@ _Labyrinthine Horrors_ is a first-person, horror-themed maze extraction game bro
 | Soofie Motamedi | Gameplay, User Interface, Player Guidance |
 
 #### Role Descriptions
+<a name="role-desc"/>
 
 | Role | Description |
 | --- | --- |
@@ -41,3 +43,11 @@ _Labyrinthine Horrors_ is a first-person, horror-themed maze extraction game bro
 | Models | Modelers are in charge of creating the physical assets that a game requires--such as weapons, player models and buildings--and subsequently applying textures and shaders. |
 | Animation | Animators are in charge of creating and implementing player, enemy, environmental and UI animations. |
 | Audio | Those with the Audio role are in charge of creating or (predominantly) sourcing audio and overseeing its subsequent implementation in the game. |
+
+### Gameplay Video
+<a name="video"/>
+
+Here is a some sample gameplay from our final prototype build:
+
+https://github.com/david-szy5/Labyrinthine-Horrors/assets/89551660/ba2ded03-29d3-42aa-861c-b71cbc3d8ebd
+
