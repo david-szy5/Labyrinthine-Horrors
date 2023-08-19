@@ -47,7 +47,7 @@ _Labyrinthine Horrors_ is a first-person, horror-themed maze extraction game bro
 ### Gameplay Video
 <a name="video"/>
 
-Here is a some sample gameplay from our final prototype build:
+Here is some sample gameplay from our final prototype build:
 
 https://github.com/david-szy5/Labyrinthine-Horrors/assets/89551660/ba2ded03-29d3-42aa-861c-b71cbc3d8ebd
 
